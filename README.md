@@ -66,3 +66,7 @@ Navigate to http://localhost:3000/compose to compose a new post:
 
     - To delete a post, click on the post title to view the full post.
     - Click the "Delete" button at the bottom of the post to remove it.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
